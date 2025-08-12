@@ -1,3 +1,5 @@
 docs.md
 
 .idea
+
+__pycache__
